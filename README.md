@@ -77,7 +77,7 @@ pip install -r requirements.txt
 ### Running the Application
 
 ```
-python pdfsage_app.py
+python app.py
 ```
 The application will start a local server via Gradio, accessible at `http://localhost:7860`
 
